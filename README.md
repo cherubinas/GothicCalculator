@@ -1,4 +1,6 @@
 # GothicCalculator
 Simple gothic calculator
-![image](https://github.com/user-attachments/assets/2ca4604f-7cc9-43ac-94c0-ccc32582fef7)
+
+![image](https://github.com/user-attachments/assets/f535501b-30a8-4094-9ec3-59ce7e63a5d1)
+
 
